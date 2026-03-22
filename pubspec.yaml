@@ -1,0 +1,15 @@
+name: dmisaki
+description: Grapheme-to-phoneme for Kokoro TTS models. Dart port of hexgrad/misaki.
+version: 0.1.0
+repository: https://github.com/gaumoe/misaki.dart
+topics:
+  - tts
+  - phoneme
+  - japanese
+  - nlp
+
+environment:
+  sdk: ^3.10.0
+
+dependencies:
+  mecab: ^0.1.0
